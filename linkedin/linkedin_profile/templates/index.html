@@ -1,0 +1,24 @@
+{% extends "base.html"%}
+{% load static %}
+
+{% block title %}
+Linkedin Profile
+{% endblock %}
+
+{% block css_files %}
+<link rel="stylesheet" href="{% static "style.css" %}"/>
+{% endblock %}
+
+{% block content %}
+<section id="welcome">
+    <header>
+        <img src="#" alt="Linkedin" />
+        <div class="-login">
+            <h2>Login to get started</h2>
+            <a href="/login">Login</a>
+        </div>
+    </header>
+    <p> Login with your Linkedin account credentials to get started </p>
+</section>
+{{ profile_data|pprint }}
+{% endblock %}

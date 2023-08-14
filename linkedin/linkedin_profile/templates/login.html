@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}
+Login
+{% endblock %}
+
+{% block css_files %}
+<link rel="stylesheet" href="{% static "login.css" %}"/>
+{% endblock %}
+{% block content %}
+<section id="welcome">
+    <header>
+    </header>
+</section>
+<div class="from-section">
+    <div>
+        <form method="POST">
+            {% csrf_token %}
+            {% for field in form %}
+                <div class="form-control {% if field.errors %} errors {% endif %}">
+                    {{ field.label_tag }}
+                    {{ field }}
+                    {{ field.errors }}
+                </div>
+            {% endfor %}
+            <button type="submit" >Send</button>
+        </form>
+    </div>
+</div>
+<main>
+    <div>
+        {{ profile_data|pprint }}
+    </div>
+</main>
+{% endblock %}

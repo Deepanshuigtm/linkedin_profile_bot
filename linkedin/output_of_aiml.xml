@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+            <aiml>
+                
+                    <category>
+                        <pattern>WHAT IS YOUR SUMMARY</pattern>
+                        <template>Currently Head of Business Development at NeoPeople.
+
+Leading expansion across North America and the Caribbean. 
+
+Previously worked in Meta’s (Facebook) Global Business Group from 2017 to 2022.
+
+During that period, I was personally responsible for driving $400M in revenue.
+
+I successfully brought in $500M+ for the company.</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR INDUSTRYNAME</pattern>
+                        <template>Business Consulting and Services</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR LASTNAME</pattern>
+                        <template>Namis</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR LOCATIONNAME</pattern>
+                        <template>United States</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR STUDENT</pattern>
+                        <template>False</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR GEOCOUNTRYNAME</pattern>
+                        <template>United States</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR GEOCOUNTRYURN</pattern>
+                        <template>urn:li:fs_geo:103644278</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR GEOLOCATIONBACKFILLED</pattern>
+                        <template>False</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR ELT</pattern>
+                        <template>False</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR INDUSTRYURN</pattern>
+                        <template>urn:li:fs_industry:11</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR FIRSTNAME</pattern>
+                        <template>Dominick</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR ENTITYURN</pattern>
+                        <template>urn:li:fs_profile:ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR GEOLOCATION</pattern>
+                        <template>{'geoUrn': 'urn:li:fs_geo:104472865'}</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR GEOLOCATIONNAME</pattern>
+                        <template>Austin, Texas</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR LOCATION</pattern>
+                        <template>{'basicLocation': {'countryCode': 'us'}}</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR HEADLINE</pattern>
+                        <template>Head of Biz Dev @ NeoPeople | formerly Global Sales @ Meta (Facebook)</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR DISPLAYPICTUREURL</pattern>
+                        <template>https://media.licdn.com/dms/image/C4E03AQGgrUyVUCtaiA/profile-displayphoto-shrink_</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR IMG_100_100</pattern>
+                        <template>100_100/0/1562204978810?e=1697673600&v=beta&t=L3ZOuIXfxI3jXy9L4mS_XmWAlEyAkVUD7z5iQQ0b45Q</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR IMG_200_200</pattern>
+                        <template>200_200/0/1562204978810?e=1697673600&v=beta&t=qkW3XcP3dK-BUPxioM_KGJVijFunZjbzkrPBES-MKmc</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR IMG_400_400</pattern>
+                        <template>400_400/0/1562204978810?e=1697673600&v=beta&t=dZCxsJoBeXjaNQh6GcjKZK9bkLqDnonrIwEseWA2lvg</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR IMG_800_800</pattern>
+                        <template>800_800/0/1562204978810?e=1697673600&v=beta&t=I3EdDqnkxylOQ1C8YOBxFuilaJjL5-d6Pa5bB-JB-Ag</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR PROFILE_ID</pattern>
+                        <template>ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR PROFILE_URN</pattern>
+                        <template>urn:li:fs_miniProfile:ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR MEMBER_URN</pattern>
+                        <template>urn:li:member:358510706</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR PUBLIC_ID</pattern>
+                        <template>dnamis</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR EXPERIENCE</pattern>
+                        <template>[{'locationName': 'Austin, Texas Metropolitan Area', 'entityUrn': 'urn:li:fs_position:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,2095759977)', 'geoLocationName': 'Austin, Texas Metropolitan Area', 'geoUrn': 'urn:li:fs_geo:90000064', 'companyName': 'NeoPeople', 'timePeriod': {'startDate': {'month': 1, 'year': 2023}}, 'company': {'employeeCountRange': {'start': 11, 'end': 50}, 'industries': ['Computer Software']}, 'title': 'Head of Business Development', 'region': 'urn:li:fs_region:(us,64)', 'companyUrn': 'urn:li:fs_miniCompany:71674877', 'companyLogoUrl': 'https://media.licdn.com/dms/image/C560BAQHB7WJg0OOvzg/company-logo_'}, {'locationName': 'Austin, Texas, United States', 'entityUrn': 'urn:li:fs_position:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,1814515955)', 'geoLocationName': 'Austin, Texas, United States', 'geoUrn': 'urn:li:fs_geo:104472865', 'companyName': 'NeoPeople', 'timePeriod': {'startDate': {'month': 12, 'year': 2019}}, 'company': {'employeeCountRange': {'start': 11, 'end': 50}, 'industries': ['Computer Software']}, 'title': 'Partner', 'region': 'urn:li:fs_region:(us,0)', 'companyUrn': 'urn:li:fs_miniCompany:71674877', 'companyLogoUrl': 'https://media.licdn.com/dms/image/C560BAQHB7WJg0OOvzg/company-logo_'}, {'locationName': 'Remote', 'entityUrn': 'urn:li:fs_position:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,1947150118)', 'geoLocationName': 'Remote', 'companyName': 'Meta', 'timePeriod': {'endDate': {'month': 1, 'year': 2023}, 'startDate': {'month': 10, 'year': 2021}}, 'company': {'employeeCountRange': {'start': 10001}, 'industries': ['Computer Software']}, 'title': 'Global Business Group', 'companyUrn': 'urn:li:fs_miniCompany:10667', 'companyLogoUrl': 'https://media.licdn.com/dms/image/C4E0BAQFdNatYGiBelg/company-logo_'}, {'entityUrn': 'urn:li:fs_position:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,1754176341)', 'companyName': 'Facebook', 'timePeriod': {'endDate': {'month': 10, 'year': 2021}, 'startDate': {'month': 1, 'year': 2021}}, 'company': {'employeeCountRange': {'start': 10001}, 'industries': ['Computer Software']}, 'title': 'Global Business Group', 'companyUrn': 'urn:li:fs_miniCompany:76987811', 'companyLogoUrl': 'https://media.licdn.com/dms/image/C4E0BAQHi-wrXiQcbxw/company-logo_'}, {'locationName': 'Austin, Texas', 'entityUrn': 'urn:li:fs_position:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,1403570614)', 'geoLocationName': 'Austin, Texas', 'companyName': 'Facebook', 'timePeriod': {'endDate': {'month': 1, 'year': 2021}, 'startDate': {'month': 4, 'year': 2018}}, 'company': {'employeeCountRange': {'start': 10001}, 'industries': ['Computer Software']}, 'title': 'Partner Manager - Automotive Agencies', 'companyUrn': 'urn:li:fs_miniCompany:76987811', 'companyLogoUrl': 'https://media.licdn.com/dms/image/C4E0BAQHi-wrXiQcbxw/company-logo_'}]</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR EDUCATION</pattern>
+                        <template>[{'courses': ['urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,1)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,2)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,3)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,4)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,5)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,6)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,7)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,8)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,9)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,10)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,11)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,12)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,13)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,14)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,15)', 'urn:li:fs_course:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,16)'], 'entityUrn': 'urn:li:fs_education:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,232422095)', 'school': {'objectUrn': 'urn:li:school:19483', 'entityUrn': 'urn:li:fs_miniSchool:19483', 'active': True, 'schoolName': "St.Edward's University", 'trackingId': 'at+hgnztRTe3jm4yTs8g/A==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQES0CPtvvRYHg/company-logo_'}, 'activities': "Hilltop Marketing Association, Student Government Association, Entrepreneurship Club, Academic Integrity Assessment Committee, LeaderShape Institute, Campus Ministry, Service Break Experience (SBE), S.E.R.V.E Austin, S.E.R.V.E One-Day, St. Edward's Intramural Basketball, Group-X", 'fieldOfStudyUrn': 'urn:li:fs_fieldOfStudy:-1', 'degreeName': 'Bachelor of Business Administration (B.B.A.)', 'schoolName': "St.Edward's University", 'fieldOfStudy': 'Digital Media Management/Marketing', 'honors': ['urn:li:fs_honor:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,75789284)', 'urn:li:fs_honor:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,766205233)', 'urn:li:fs_honor:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,724912938)'], 'schoolUrn': 'urn:li:fs_miniSchool:19483'}]</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR LANGUAGES</pattern>
+                        <template>[{'name': 'Creoles and pidgins, English-based', 'proficiency': 'NATIVE_OR_BILINGUAL'}, {'name': 'English', 'proficiency': 'NATIVE_OR_BILINGUAL'}, {'name': 'Spanish', 'proficiency': 'ELEMENTARY'}]</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR PUBLICATIONS</pattern>
+                        <template>[]</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR CERTIFICATIONS</pattern>
+                        <template>[{'authority': 'Hootsuite Media Inc.', 'name': 'Hootsuite Certified Professional', 'timePeriod': {'startDate': {'month': 4, 'year': 2015}}, 'company': {'objectUrn': 'urn:li:company:288540', 'entityUrn': 'urn:li:fs_miniCompany:288540', 'name': 'Hootsuite', 'showcase': False, 'active': True, 'logo': {'com.linkedin.common.VectorImage': {'artifacts': [{'width': 200, 'fileIdentifyingUrlPathSegment': '200_200/0/1657641701731?e=1700092800&v=beta&t=z62bk634hLMWiERhnNlWMYbFpZQJDkIE9zITjpYmzt8', 'expiresAt': 1700092800000, 'height': 200}, {'width': 100, 'fileIdentifyingUrlPathSegment': '100_100/0/1657641701731?e=1700092800&v=beta&t=F_oCQlhoS-zgv6chOWG2kGMvjoys5WCFuCAAz9wpRDk', 'expiresAt': 1700092800000, 'height': 100}, {'width': 400, 'fileIdentifyingUrlPathSegment': '400_400/0/1657641701731?e=1700092800&v=beta&t=U3Rtlt70SJEdOzWC7Ai5E4voCEvFInN8WA375dP4WOE', 'expiresAt': 1700092800000, 'height': 400}], 'rootUrl': 'https://media.licdn.com/dms/image/C4E0BAQHcA9BFHlVlqA/company-logo_'}}, 'universalName': 'hootsuite', 'dashCompanyUrn': 'urn:li:fsd_company:288540', 'trackingId': 'capFgywbTzmbetM1AX9HXg=='}, 'displaySource': 'hootsuite.com', 'companyUrn': 'urn:li:fs_miniCompany:288540', 'url': 'https://learn.hootsuite.com/social-media-consultants/57681'}, {'authority': 'HubSpot', 'name': 'HubSpot Inbound Marketing Certification', 'timePeriod': {'endDate': {'month': 6, 'year': 2019}, 'startDate': {'month': 4, 'year': 2017}}, 'company': {'objectUrn': 'urn:li:company:68529', 'entityUrn': 'urn:li:fs_miniCompany:68529', 'name': 'HubSpot', 'showcase': False, 'active': True, 'logo': {'com.linkedin.common.VectorImage': {'artifacts': [{'width': 200, 'fileIdentifyingUrlPathSegment': '200_200/0/1646683329778?e=1700092800&v=beta&t=2Km2wOSBzPaQZhKU2dLaFNyX2E3VvPAmdQMEeMWLkpU', 'expiresAt': 1700092800000, 'height': 200}, {'width': 100, 'fileIdentifyingUrlPathSegment': '100_100/0/1646683329778?e=1700092800&v=beta&t=4zHcfANMk-tLZ82Skg1_IAz-_3oaspvqKYhIeuaTZ7Y', 'expiresAt': 1700092800000, 'height': 100}, {'width': 400, 'fileIdentifyingUrlPathSegment': '400_400/0/1646683329778?e=1700092800&v=beta&t=76C1w8hF1YYcDPfpfFiwHKLnN5TZCwyos1APEL-iTpI', 'expiresAt': 1700092800000, 'height': 400}], 'rootUrl': 'https://media.licdn.com/dms/image/C4D0BAQF8H-SLmMDZlA/company-logo_'}}, 'universalName': 'hubspot', 'dashCompanyUrn': 'urn:li:fsd_company:68529', 'trackingId': 'I2k3eUOlRn+dsU5k7pUvEA=='}, 'displaySource': 'hubspot-academy.s3.amazonaws.com', 'companyUrn': 'urn:li:fs_miniCompany:68529', 'url': 'https://hubspot-academy.s3.amazonaws.com/prod/certification/certificate-pdfs/04c8cc621288468c8cd78eb7de20be10'}, {'authority': 'Google', 'name': 'Google AdWords Mobile Certified', 'timePeriod': {'endDate': {'month': 3, 'year': 2018}, 'startDate': {'month': 11, 'year': 2015}}, 'company': {'objectUrn': 'urn:li:company:1441', 'entityUrn': 'urn:li:fs_miniCompany:1441', 'name': 'Google', 'showcase': False, 'active': True, 'logo': {'com.linkedin.common.VectorImage': {'artifacts': [{'width': 200, 'fileIdentifyingUrlPathSegment': '200_200/0/1519856215226?e=1700092800&v=beta&t=0Y3ciUgv_KYXdD9KXF1VgUvgbyH_SdGAr4uEwgQOAgA', 'expiresAt': 1700092800000, 'height': 200}, {'width': 100, 'fileIdentifyingUrlPathSegment': '100_100/0/1519856215226?e=1700092800&v=beta&t=J4NZSUpOdrgfwkwV64hV83gv6Jt-ymr97hIn7lFlsgI', 'expiresAt': 1700092800000, 'height': 100}, {'width': 400, 'fileIdentifyingUrlPathSegment': '400_400/0/1519856215226?e=1700092800&v=beta&t=wDzacO-GhmwVLQ624CF9o2m3at25hxsySV4J0I7ZkfQ', 'expiresAt': 1700092800000, 'height': 400}], 'rootUrl': 'https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_'}}, 'universalName': 'google', 'dashCompanyUrn': 'urn:li:fsd_company:1441', 'trackingId': 'guaVC28VTIiihdmxeZzvpQ=='}, 'displaySource': 'google.com', 'companyUrn': 'urn:li:fs_miniCompany:1441', 'url': 'https://www.google.com/partners/#p_certification_html;cert=6'}, {'authority': 'Google', 'name': 'Google Analytics Fundamentals', 'timePeriod': {'startDate': {'month': 2, 'year': 2015}}, 'company': {'objectUrn': 'urn:li:company:1441', 'entityUrn': 'urn:li:fs_miniCompany:1441', 'name': 'Google', 'showcase': False, 'active': True, 'logo': {'com.linkedin.common.VectorImage': {'artifacts': [{'width': 200, 'fileIdentifyingUrlPathSegment': '200_200/0/1519856215226?e=1700092800&v=beta&t=0Y3ciUgv_KYXdD9KXF1VgUvgbyH_SdGAr4uEwgQOAgA', 'expiresAt': 1700092800000, 'height': 200}, {'width': 100, 'fileIdentifyingUrlPathSegment': '100_100/0/1519856215226?e=1700092800&v=beta&t=J4NZSUpOdrgfwkwV64hV83gv6Jt-ymr97hIn7lFlsgI', 'expiresAt': 1700092800000, 'height': 100}, {'width': 400, 'fileIdentifyingUrlPathSegment': '400_400/0/1519856215226?e=1700092800&v=beta&t=wDzacO-GhmwVLQ624CF9o2m3at25hxsySV4J0I7ZkfQ', 'expiresAt': 1700092800000, 'height': 400}], 'rootUrl': 'https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_'}}, 'universalName': 'google', 'dashCompanyUrn': 'urn:li:fsd_company:1441', 'trackingId': 'Fvla5KbUT22Iuq+Y+9dyPg=='}, 'companyUrn': 'urn:li:fs_miniCompany:1441'}, {'authority': 'Microsoft', 'name': 'Bing Ads Accredited Professional', 'timePeriod': {'startDate': {'month': 11, 'year': 2015}}, 'company': {'objectUrn': 'urn:li:company:1035', 'entityUrn': 'urn:li:fs_miniCompany:1035', 'name': 'Microsoft', 'showcase': False, 'active': True, 'logo': {'com.linkedin.common.VectorImage': {'artifacts': [{'width': 200, 'fileIdentifyingUrlPathSegment': '200_200/0/1618231291419?e=1700092800&v=beta&t=DhzACRQDD6kFYKd5ztHU9KI_nyylhSmkF_micoydjng', 'expiresAt': 1700092800000, 'height': 200}, {'width': 100, 'fileIdentifyingUrlPathSegment': '100_100/0/1618231291419?e=1700092800&v=beta&t=n62pT_nGpeu9HL3T1cSKnaTP2av-94CycYpctwswm9Q', 'expiresAt': 1700092800000, 'height': 100}, {'width': 400, 'fileIdentifyingUrlPathSegment': '400_400/0/1618231291419?e=1700092800&v=beta&t=rPBSRR7rbgYva-RGDCE_gl1LABdIyaXCSXdgb0aq5KA', 'expiresAt': 1700092800000, 'height': 400}], 'rootUrl': 'https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_'}}, 'universalName': 'microsoft', 'dashCompanyUrn': 'urn:li:fsd_company:1035', 'trackingId': 'Vo2PMiXDSbCsNSYYXP8V9A=='}, 'companyUrn': 'urn:li:fs_miniCompany:1035'}, {'authority': 'LinkedIn', 'name': 'Advertising on LinkedIn', 'timePeriod': {'startDate': {'month': 11, 'year': 2020}}, 'company': {'objectUrn': 'urn:li:company:1337', 'entityUrn': 'urn:li:fs_miniCompany:1337', 'name': 'LinkedIn', 'showcase': False, 'active': True, 'logo': {'com.linkedin.common.VectorImage': {'artifacts': [{'width': 200, 'fileIdentifyingUrlPathSegment': '200_200/0/1638831589865?e=1700092800&v=beta&t=dpI-3CbstaIOWrsGIgw5UvMRfb8M-H_a7N-XKD4l9Io', 'expiresAt': 1700092800000, 'height': 200}, {'width': 100, 'fileIdentifyingUrlPathSegment': '100_100/0/1638831589865?e=1700092800&v=beta&t=MFjcNX0hJDW7Goe5R8ZoAUHDj4B5d0UltcbssljghMY', 'expiresAt': 1700092800000, 'height': 100}, {'width': 400, 'fileIdentifyingUrlPathSegment': '400_400/0/1638831589865?e=1700092800&v=beta&t=F0wQ4YE76kB1XvMalNZgoXD44DF59ZvlIKaX7EZv3Pk', 'expiresAt': 1700092800000, 'height': 400}], 'rootUrl': 'https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_'}}, 'universalName': 'linkedin', 'dashCompanyUrn': 'urn:li:fsd_company:1337', 'trackingId': 'Lpawgje+QSy1TMWCgZ7mZg=='}, 'displaySource': 'linkedin.com', 'companyUrn': 'urn:li:fs_miniCompany:1337', 'url': 'https://www.linkedin.com/learning/certificates/b313288053aa4d0bb30b48b8d4c69d91a2e2c2415bd84d575288d2b707d72806?trk=backfilled_certificate'}, {'authority': 'LinkedIn', 'name': 'People Analytics', 'timePeriod': {'startDate': {'month': 11, 'year': 2020}}, 'company': {'objectUrn': 'urn:li:company:1337', 'entityUrn': 'urn:li:fs_miniCompany:1337', 'name': 'LinkedIn', 'showcase': False, 'active': True, 'logo': {'com.linkedin.common.VectorImage': {'artifacts': [{'width': 200, 'fileIdentifyingUrlPathSegment': '200_200/0/1638831589865?e=1700092800&v=beta&t=dpI-3CbstaIOWrsGIgw5UvMRfb8M-H_a7N-XKD4l9Io', 'expiresAt': 1700092800000, 'height': 200}, {'width': 100, 'fileIdentifyingUrlPathSegment': '100_100/0/1638831589865?e=1700092800&v=beta&t=MFjcNX0hJDW7Goe5R8ZoAUHDj4B5d0UltcbssljghMY', 'expiresAt': 1700092800000, 'height': 100}, {'width': 400, 'fileIdentifyingUrlPathSegment': '400_400/0/1638831589865?e=1700092800&v=beta&t=F0wQ4YE76kB1XvMalNZgoXD44DF59ZvlIKaX7EZv3Pk', 'expiresAt': 1700092800000, 'height': 400}], 'rootUrl': 'https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_'}}, 'universalName': 'linkedin', 'dashCompanyUrn': 'urn:li:fsd_company:1337', 'trackingId': 'jkxHNeM2TDqWVEPNDHEtIw=='}, 'displaySource': 'linkedin.com', 'companyUrn': 'urn:li:fs_miniCompany:1337', 'url': 'https://www.linkedin.com/learning/certificates/9cc17c67bbc4bfd55050e2681f69e1cdc665cd61f6ba6064057519ea99d6e8a8?trk=backfilled_certificate'}]</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR VOLUNTEER</pattern>
+                        <template>[{'role': 'Member', 'companyName': 'Greater Austin Hispanic Chamber of Commerce (GAHCC)', 'timePeriod': {'startDate': {'month': 1, 'year': 2023}}, 'company': {'miniCompany': {'objectUrn': 'urn:li:company:102766', 'entityUrn': 'urn:li:fs_miniCompany:102766', 'name': 'Greater Austin Hispanic Chamber of Commerce (GAHCC)', 'showcase': False, 'active': True, 'logo': {'com.linkedin.common.VectorImage': {'artifacts': [{'width': 200, 'fileIdentifyingUrlPathSegment': '200_200/0/1648755007122?e=1700092800&v=beta&t=OGh36kJDe9POti_BfU3nxb2Ph7_AAL1rdpNybEcB96U', 'expiresAt': 1700092800000, 'height': 200}, {'width': 100, 'fileIdentifyingUrlPathSegment': '100_100/0/1648755007122?e=1700092800&v=beta&t=XohY3kEox6BRVttrgraAUJRdVxs62s6qG7LloAGEAL4', 'expiresAt': 1700092800000, 'height': 100}, {'width': 400, 'fileIdentifyingUrlPathSegment': '400_400/0/1648755007122?e=1700092800&v=beta&t=zFkDojcLuwrhMOErAP0TbCd7ez8neVXxoF5evpJ83fg', 'expiresAt': 1700092800000, 'height': 400}], 'rootUrl': 'https://media.licdn.com/dms/image/C4E0BAQGLMjKwb9lG6g/company-logo_'}}, 'universalName': 'greater-austin-hispanic-chamber-of-commerce', 'dashCompanyUrn': 'urn:li:fsd_company:102766', 'trackingId': 'gC/SjvjrSeWmgwxfLi18xA=='}}, 'companyUrn': 'urn:li:fs_miniCompany:102766'}, {'role': 'Member', 'companyName': 'Greater Houston Partnership', 'timePeriod': {'startDate': {'month': 1, 'year': 2023}}, 'company': {'miniCompany': {'objectUrn': 'urn:li:company:24676', 'entityUrn': 'urn:li:fs_miniCompany:24676', 'name': 'Greater Houston Partnership', 'showcase': False, 'active': True, 'logo': {'com.linkedin.common.VectorImage': {'artifacts': [{'width': 200, 'fileIdentifyingUrlPathSegment': '200_200/0/1662559406633?e=1700092800&v=beta&t=DlNzTBtO9Bu3N22X-MVuwPUbISqThtqldHRoQA7L4lM', 'expiresAt': 1700092800000, 'height': 200}, {'width': 100, 'fileIdentifyingUrlPathSegment': '100_100/0/1662559406633?e=1700092800&v=beta&t=uM7E02WYuXzkw1I7jM_50BVB8EsGaqSoIRD_uTqauMg', 'expiresAt': 1700092800000, 'height': 100}, {'width': 400, 'fileIdentifyingUrlPathSegment': '400_400/0/1662559406633?e=1700092800&v=beta&t=OtbBpL6DDnoeo4Qr0F8AIV5wQCLBnA_E6nHeybHrS-o', 'expiresAt': 1700092800000, 'height': 400}], 'rootUrl': 'https://media.licdn.com/dms/image/D560BAQEcKitKnVQ_ZQ/company-logo_'}}, 'universalName': 'ghpartnership', 'dashCompanyUrn': 'urn:li:fsd_company:24676', 'trackingId': 'AJc9nY8WQ963i0EY89QZEQ=='}}, 'companyUrn': 'urn:li:fs_miniCompany:24676'}, {'role': 'Conference Organizer', 'companyName': 'Austin SHRM', 'timePeriod': {'endDate': {'month': 3, 'year': 2022}, 'startDate': {'month': 3, 'year': 2022}}, 'company': {'miniCompany': {'objectUrn': 'urn:li:company:759246', 'entityUrn': 'urn:li:fs_miniCompany:759246', 'name': 'Austin SHRM', 'showcase': False, 'active': True, 'logo': {'com.linkedin.common.VectorImage': {'artifacts': [{'width': 200, 'fileIdentifyingUrlPathSegment': '200_200/0/1628559092914?e=1700092800&v=beta&t=-gyh9z9n4C_THI2vm6GS43yOTczmuOCutYRY_2FB41E', 'expiresAt': 1700092800000, 'height': 200}, {'width': 100, 'fileIdentifyingUrlPathSegment': '100_100/0/1628559092914?e=1700092800&v=beta&t=qYx07gJAsg5y_41XnleVFf2WnQqXHq9yd6MwM14aReA', 'expiresAt': 1700092800000, 'height': 100}, {'width': 400, 'fileIdentifyingUrlPathSegment': '400_400/0/1628559092914?e=1700092800&v=beta&t=p_eWO8jO180aGvU-kYtXEN5X80C3s78yB5qnc44rMEM', 'expiresAt': 1700092800000, 'height': 400}], 'rootUrl': 'https://media.licdn.com/dms/image/C4E0BAQGBRD2ZabGaMw/company-logo_'}}, 'universalName': 'austinshrm', 'dashCompanyUrn': 'urn:li:fsd_company:759246', 'trackingId': 'ADYItXxzR+6ib/3AQp1JbA=='}}, 'companyUrn': 'urn:li:fs_miniCompany:759246'}]</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR HONORS</pattern>
+                        <template>[{'description': 'The Presidential Award is given to outstanding seniors from the undergraduate, graduate and New College programs who embody the principles of the university’s Holy Cross tradition and mission, and have demonstrated excellence in leadership, academic performance and service to the university and other communities. The award is given annually each April to no more than 12 students.', 'occupation': 'urn:li:fs_education:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,232422095)', 'title': 'Presidential Award', 'issueDate': {'month': 4, 'year': 2017}, 'issuer': "St. Edward's University"}, {'occupation': 'urn:li:fs_education:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,232422095)', 'title': "Dean's List", 'issueDate': {'month': 5, 'year': 2016}, 'issuer': "St. Edward's University"}, {'occupation': 'urn:li:fs_education:(ACoAABVecHIBZuIBo4RJZ1rxcqtsy-P_Ly1VZUM,232422095)', 'title': "Dean's List", 'issueDate': {'month': 12, 'year': 2015}, 'issuer': "St. Edward's University"}, {'title': "Dean's List", 'issueDate': {'month': 5, 'year': 2015}, 'issuer': "St. Edward's University"}, {'title': "Dean's List", 'issueDate': {'month': 5, 'year': 2014}, 'issuer': "St. Edward's University"}, {'title': 'Honorable Mention', 'issueDate': {'month': 12, 'year': 2013}, 'issuer': "St. Edward's University"}]</template>
+                    </category>
+                    
+                    <category>
+                        <pattern>WHAT IS YOUR PROJECTS</pattern>
+                        <template>[]</template>
+                    </category>
+                    
+            </aiml>
+            
